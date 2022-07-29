@@ -6,6 +6,8 @@ public class Class2 {
 		System.out.println("BRANCH B1");
 		System.out.println("BRANCH B1");
 		System.out.println("BRANCH B1");
+		System.out.println("BRANCH N");
+		System.out.println("BRANCH N1");
 	}
 
 }
